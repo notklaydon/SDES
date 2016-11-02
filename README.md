@@ -1,7 +1,7 @@
 # SDES
-# Authors:
-# Klaydon Balicanta
-# Trevor Silva
-# Michael Paule
+Authors:
+Klaydon Balicanta
+Trevor Silva
+Michael Paule
 
-# Programming Project for Computer Cryptography at Rowan University
+Programming Project for Computer Cryptography at Rowan University
